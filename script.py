@@ -49,17 +49,16 @@ def parsecsv(dpts, dataset):
             final[nomdpt] = {}
         if nomville not in final[nomdpt]:
             final[nomdpt][nomville] = {}
-        final[nomdpt][nomville] = {1:{}}
-        indecounter1 = len(final[nomdpt][nomville])
-        final[nomdpt][nomville][indecounter1] = {}
-        final[nomdpt][nomville][indecounter1]['codepostal'] = codepostal
-        final[nomdpt][nomville][indecounter1]['departement'] = nomdpt
-        final[nomdpt][nomville][indecounter1]['ville'] = nomville
-        final[nomdpt][nomville][indecounter1]['adresse'] = adresse
+        indexcounter1 = len(final[nomdpt][nomville])
+        final[nomdpt][nomville][indexcounter1] = {}
+        final[nomdpt][nomville][indexcounter1]['codepostal'] = codepostal
+        final[nomdpt][nomville][indexcounter1]['departement'] = nomdpt
+        final[nomdpt][nomville][indexcounter1]['ville'] = nomville
+        final[nomdpt][nomville][indexcounter1]['adresse'] = adresse
         counter2 += 1
 
     return final
 
 
-with open('data.txt', 'w') as outfile:
+with open('data.json', 'w') as outfile:
     json.dump(parsecsv(pd.read_csv('Departements.csv'), pd.read_csv('Dataset.csv')), outfile)
