@@ -11,6 +11,7 @@ import pandas as pd
 dataset = pd.read_csv('Dataset.csv', dtype=object, encoding='cp850')
 dpts = pd.read_csv('Departements.csv', dtype=object, encoding='utf_8')
 dataset = dataset.sort_index(1, ascending=False)
+
 tailledpt = len(dpts)
 counter1 = 0
 listedpts = {}
@@ -42,7 +43,7 @@ while counter2 < tailledata:
         codedpt = '24'
 
     nomdpt = listedpts[codedpt]
-    nomville = dataset.iloc[counter2, 1]
+    nomville = dataset.iloc[counter2, 0]
     adresse = dataset.iloc[counter2, 2]
 
     if nomdpt not in final:
