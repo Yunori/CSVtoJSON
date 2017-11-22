@@ -1,180 +1,179 @@
 CodePostal,Ville,Adresse
-49000,Angers,"Centre Commercial Géant Casino, 75 Avenue Montaigne "
-29000,Quimper,"Centre Commercial Glann Odet, 163 Route de Bénodet "
-14000,Caen,81 Rue Saint Pierre 
-72000,Le Mans,15 Rue Bolton 
-14120,Mondeville,"Centre commercial Mondeville, 2 Avenue des commerces "
-44000,Nantes,Boulevard General de Gaulle 
-35400,Saint Malo,1 Rue Saint Vincent 
-35400,Saint Malo,"Centre Commercial Carrefour La Madeleine, Avenue de la Flaudais "
-44600,Saint-Nazaire,75 Avenue de la Republique 
-29200,Brest,29 Route de Gouesnou
-78200,Buchelay,"Centre commercial Auchan Mantes, ZA Portes de Normandie "
-78370,Plaisir,"Centre Commercial Auchan Grand Plaisir, 161 Chemin Départemental "
-35000,Rennes,1 Rue Lafayette 
-51350,Cormontreuil,Route de Louvois 
-51100,Reims,11 Rue Condorcet 
-51430,Tinqueux,"Centre Commercial Carrefour, 31 Route Nationale"
-77000,Melun,14 Rue René Pouteau 
-77240,Cesson,Route Departementale 306 
-28000,Chartres,34 Rue de Soleil d'or 
-45000,Orléans,5 Rue de la République 
-45770,Saran,"Centre Commercial Cap Saran, 2601 Route Nationale 20"
-59140,Dunkerque,6 Rue Clémenceau 
-80484,Dury,"Centre Commercial Auchan, Route d'Amiens"
-80440,Glisy,"Centre Commercial Géant Amiens Glisy, Pôle Jules Verne, 8 avenue Phileas Fogg"
-60000,Beauvais,"Centre commercial du Jeu de Paume, Place du jeu de Paume"
-59155,Faches Thumesnil,"Centre Commercial Auchan, Route de Vendeville"
-59320,Haubourdin,"Centre Commercial Englos les Géants, 352 Route Nationale"
-77410,Claye-Souilly,Route Nationale 3 
-91940,Les Ulis  ,"Centre Commercial Les Ulis, 2 Avenue de l?Aubrac"
-68000,Colmar,1 Place Jeanne D'Arc
-67500,Haguenau,36 Grande rue
-54180,Houdemont,"Centre Commercial Cora, D570 "
-57127,Thionville,"Centre Commercial Geric, Rue du Maillet "
-54350,Mont Saint-Martin,"Centre Commercial Pôle Europe, 1 Avenue de l'Europe"
-57280,Metz Sémecourt,"Centre Commercial Auchan, Voie Romaine "
-57160,Moulins-lès-Metz,"Centre Commercial Waves Actisud, 1 Chemin de la Pie Grièche"
-57000,Metz,9 Rue Marguerite Puhl Demange 
-68100,Mulhouse,35 Rue du Sauvage
-67450,Mundolsheim,"Centre Commercial Cora, Route Nationale 63"
-54000,Nancy,Centre Commercial Saint-Sébastien 
-78885,Saint-Quentin-en-Yvelines,"Centre Commercial Saint-Quentin, 5 place Colbert"
-93160,Noisy le Grand,"Centre Commercial Les Arcades Mont d'Est, boulevard du Mont d'Est"
-93600,Aulnay sous Bois,"Centre Commercial O'Parinor, Le Haut de Galy "
-92397,Villeneuve la Garenne,4 Boulevard Gallieni 
-67400,Illkirch Graffenstaden,"Centre Commercial Auchan Baggersee, 6 Route de Strasbourg"
-77124,Chauconin Neufmontier,"Centre Commercial Auchan, Les Saisons de Meaux "
-6600,Antibes,2350 Chemin de Saint-Claude 
-20600,Furiani,"Centre Commercial Géant Casino, RN 193 "
-13011,Marseille,"Centre Commercial La Valentine, Route de la Sablière "
-13015,Marseille,"Centre Commercial Le Grand Littoral, 11 Avenue de Saint-Antoine "
-13008,Marseille,"Centre Commercial Bonneveine, 112 Avenue de Hambourg "
+01710,Thoiry,Zone du Pr� Jacquet BP 100
+06000,Nice,Centre commercial Etoile
+06000,Nice,6 Avenue Jean M�decin
+06400,Cannes,91 Rue d'Antibes 
+06500,Menton,34 Avenue Felix Faure 
+06600,Antibes,2350 Chemin de Saint-Claude 
+06700,Saint-Laurent du Var,Centre Commercial Cap 3000
+06700,Saint-Laurent du Var,Centre Commercial Cap 3000
+06800,Cagnes sur mer,Centre Commercial Polygone Riviera 
+10150,Pont Sainte-Marie,Mc Arthur Glen
+11000,Carcassonne,Centre Commercial Carrefour
+11100,Narbonne,Centre commercial G�ant Casino
+13001,Marseille,2 Rue Bir Hakeim
+13008,Marseille,Centre Commercial Bonneveine
+13011,Marseille,Centre Commercial La Valentine
+13015,Marseille,Centre Commercial Le Grand Littoral
 13090,Aix-en-Provence,210 Avenue de Bredasque 
-6400,Cannes,91 Rue d'Antibes 
-6000,Nice,"Centre commercial Etoile, 30 Avenue Jean-Medecin "
-83480,Puget sur Argens,"Commercial Grand Esterel, 148 Avenue Saint-Albert "
-83600,Frejus,480 Avenue Eugene Joly 
-83400,Hyeres,Centre Commercial Centre Azur 
-83130,La Garde,"Centre Commercial Grand Var Est, RN 98 "
-83190,Ollioules,Centre Commercial Carrefour
-83000,Toulon,13 Place Puget 
-6500,Menton,34 Avenue Felix Faure 
-98000,Monaco,17 Avenue des Spelugues 
-6800,Cagnes sur mer,Centre Commercial Polygone Riviera 
-74000,Annecy,12 Rue Carnot 
-74400,Chamonix,125 Rue du Docteur Paccard 
-69800,Saint-Priest,"Centre Commercial Auchan, ZAC du Champ du Pont "
-74330,Epagny,Centre Commercial Auchan 
-74100,Annemasse,9 place Antoine Lumière 
-71100,Chalon Sur Saone,49 Grande Rue 
-25000,Besançon,"Centre Commercial Chateaufarine, Rue Rene Char"
-21000,Dijon,"Parc Commercial de la Toison d'Or, Route de Langres "
-21000,Dijon, 82 Rue de la Liberté 
-38000,Grenoble,7 Rue de Bonne 
-38100,Echirolles,Centre Commercial Grand Place 
-69130,Ecully,Centre Commercial Grand Ouest
-69002,Lyon,112 Cours Charlemagne 
-84130,Le Pontet,"Centre Commercial Auchan, 218 Avenue de Saint-Tronquet "
-13500,Martigues,"Centre Commercial Auchan, Boulevard Paul Eluard "
+13090,Aix-en-Provence,Centre Commercial Les All�es Proven�ales
+13127,Vitrolles,Centre Commercial Carrefour
 13300,Salon de Provence,122 Cours Victor Hugo 
-30000,Nîmes,7 Rue General Perrier
-42300,Roanne,55 Rue Charles De Gaulle 
-42000,Saint-Etienne,2 Rue Alsace Lorraine
-26000, Valence,41 Rue Emile Augier 
-69400,Villefranche Sur Saone,526-528 Rue Nationale 
-69230,Saint-Génis Laval,"Centre Commercial Saint-Genis, 2 N°35"
-1710,Thoiry,Zone du Pré Jacquet BP 100
-47000,Agen,60 Boulevard de la Republique
-63170,Aubière,"Centre Commercial Auchan Plein Sud, 101 Avenue Jean Moulin "
-63000,Clermont Ferrand,"Centre Commercial Jaude, 2 Rue Giscard de la Tour Fondue "
-63100,,"Centre Commercial Nacarat, ZI Le Brézet Boulevard Saint-Jean "
-33130,Bègles,Centre Commercial Régional Rives d'Arcins 
-33000,Bordeaux,Rue Porte Dijeaux 
-33000,Bordeaux,"Centre Commercial Auchan Lac, Avenue des 40 Journaux"
-33700,Mérignac,"Centre Commercial Merignac Soleil, 17 Avenue de la Somme"
-34500,Béziers,"Centre Commercial Auchan, 4 Avenue de la Voie Domitienne "
-86000,Poitiers,"Centre Commercial Auchan Sud, 250 Avenue du 8 Mai 1945"
+13400,Aubagne,Centre Commercial Barneoud
+13480,Cabries,Centre Commercial Avant Cap
+13500,Martigues,Centre Commercial Auchan
+14000,Caen,81 Rue Saint Pierre 
+14120,Mondeville,Centre commercial Mondeville
+15000,Aurillac,Centre Commercial Geant Casino
 17000,La Rochelle,21 Rue des Gentilhommes
-34970,Lattes,"Centre Commercial Grand Sud, Avenue Georges Frêche"
+20600,Furiani,Centre Commercial G�ant Casino
+21000,Dijon,Parc Commercial de la Toison d'Or
+21000,Dijon, 82 Rue de la Libert� 
+25000,Besan�on,Centre Commercial Chateaufarine
+26000, Valence,41 Rue Emile Augier 
+28000,Chartres,34 Rue de Soleil d'or 
+29000,Quimper,Centre Commercial Glann Odet
+29200,Brest,29 Route de Gouesnou
+30000,N�mes,7 Rue General Perrier
+31000,Toulouse,4 - 8 Rue Lapeyrouse
+31000,Toulouse,12 Rue Alsace Lorraine
+31120,Roques,Centre Commercial Leclerc Roques
+31150,Fenouillet,Centre Commercial Geant Casino Fenouillet
+31670,Lab�ge,Centre Commercial Carrefour Lab�ge 2
+31700,Blagnac,Centre Commercial Leclerc
+33000,Bordeaux,Rue Porte Dijeaux 
+33000,Bordeaux,Centre Commercial Auchan Lac
+33000,Bordeaux,11 - 19 Rue Sainte-Catherine
+33130,B�gles,Centre Commercial R�gional Rives d'Arcins 
+33700,M�rignac,Centre Commercial Merignac Soleil
 34000, Montpellier,11 Bis Rue de la Loge 
 34000, Montpellier,2 Place de Lisbonne 
-31120,Roques,"Centre Commercial Leclerc Roques, Route de Toulouse À Bayonne"
+34500,B�ziers,Centre Commercial Auchan
+34970,Lattes,Centre Commercial Grand Sud
+35000,Rennes,1 Rue Lafayette 
+35200,Rennes,Centre Commercial Alma
+35400,Saint Malo,1 Rue Saint Vincent 
+35400,Saint Malo,Centre Commercial Carrefour La Madeleine
+38000,Grenoble,7 Rue de Bonne 
+38100,Echirolles,Centre Commercial Grand Place 
+42000,Saint-Etienne,2 Rue Alsace Lorraine
+42300,Roanne,55 Rue Charles De Gaulle 
+44000, Nantes,Boulevard General de Gaulle 
+44000,Nantes,2 - 20 Rue de la Marne
+44600,Saint-Nazaire,75 Avenue de la Republique 
+44811,Saint-Herblain,Centre Commercial Atlantis
+45000,Orl�ans,5 Rue de la R�publique 
+45770,Saran,Centre Commercial Cap Saran
+47000,Agen,60 Boulevard de la Republique
+49000,Angers,Centre Commercial G�ant Casino
+51100,Reims,11 Rue Condorcet 
+51350,Cormontreuil,Route de Louvois 
+51430,Tinqueux,Centre Commercial Carrefour
+54000,Nancy,Centre Commercial Saint-S�bastien 
+54180,Houdemont,Centre Commercial Cora
+54350,Mont Saint-Martin,Centre Commercial P�le Europe
+57000,Metz,9 Rue Marguerite Puhl Demange 
+57000,Metz,4 Rue Winston Churchill
+57127,Thionville,Centre Commercial Geric
+57160,Moulins-l�s-Metz,Centre Commercial Waves Actisud
+57280,Metz S�mecourt,Centre Commercial Auchan
+59000,Lille,39 - 45 Rue Nationale
+59000,Lille,34-36 Rue de la Grande Chauss�e
+59140,Dunkerque,6 Rue Cl�menceau 
+59155,Faches Thumesnil,Centre Commercial Auchan
+59320,Haubourdin,Centre Commercial Englos les G�ants
+59650,Villeneuve d?Ascq,Centre Commercial V2
+60000,Beauvais,Centre commercial du Jeu de Paume
+63000,Clermont Ferrand,Centre Commercial Jaude
+63170,Aubi�re,Centre Commercial Auchan Plein Sud
 64230,Lescar,Centre Commercial Carrefour 
-87000,Limoges,40 Place de la Motte
-82000,Montauban,"Centre Commercial Leclerc, 445 Route du Nord"
-31150,Fenouillet,"Centre Commercial Geant Casino Fenouillet, Route Nationale 20"
-31670,Labège,"Centre Commercial Carrefour Labège 2, 700 La Pyrénéenne"
-11100,Narbonne,Centre commercial Géant Casino
-11000,Carcassonne,"Centre Commercial Carrefour, Pont rouge "
-66530,Claira,Route du Barcares
-66000,Perpignan,"Centre Commercial Auchan, Avenue d'Espagne"
+64990,Saint-Pierre d?Irube,Centre Commercial IKEA Ametzondo
+66000,Perpignan,Centre Commercial Auchan
 66000,Perpignan,11 Place de la Republique 
-15000,Aurillac,"Centre Commercial Geant Casino, 7 avenue Général de Gaulle"
-64990,Saint-Pierre d?Irube,"Centre Commercial IKEA Ametzondo, 2-4 Avenue du Portou"
+66530,Claira,Route du Barcares
+67000,Strasbourg,34 Rue du 22 Novembre
+67000,Strasbourg,1 - 5 Rue de la Haute Montee
+67000,Strasbourg,48-50 Rue des Hallebardes
+67000,Strasbourg,Centre Commercial Riv�toile
+67400,Illkirch Graffenstaden,Centre Commercial Auchan Baggersee
+67450,Mundolsheim,Centre Commercial Cora
+67500,Haguenau,36 Grande rue
+68000,Colmar,1 Place Jeanne D'Arc
+68100,Mulhouse,35 Rue du Sauvage
+69002,Lyon,112 Cours Charlemagne 
+69002,Lyon,92 Rue Edouard H�rriot
+69002,Lyon,49 Rue de la Republique
+69003,Lyon,Centre Commercial La Part Dieu
+69003,Lyon,Centre Commercial La Part Dieu
+69130,Ecully,Centre Commercial Grand Ouest
+69230,Saint-G�nis Laval,Centre Commercial Saint-Genis
+69400,Villefranche Sur Saone,526-528 Rue Nationale 
+69500,Bron,209 Boulevard Pinel
+69800,Saint-Priest,Centre Commercial Auchan
+71100,Chalon Sur Saone,49 Grande Rue 
+72000,Le Mans,15 Rue Bolton 
+74000,Annecy,12 Rue Carnot 
+74100,Annemasse,9 place Antoine Lumi�re 
+74330,Epagny,Centre Commercial Auchan 
+74400,Chamonix,125 Rue du Docteur Paccard 
+75001,Paris,99 rue de Rivoli 
+75001,Paris,Centre commercial Forum des Halles
+75001,Paris,57 Rue de Rivoli
+75004,Paris,52 Rue de Rivoli
+75006,Paris,52 Rue Bonaparte
+75008,Paris,Centre Commercial Saint-Lazare
+75008,Paris,32 Place de la Madeleine
+75008,Paris,146 Avenue des Champs-Elys�es
 75009,Paris,40 Boulevard Haussmann
 75009,Paris,21 Boulevard Haussmann
 75009,Paris,64 Boulevard Haussmann
-78140,Velizy Villacoublay,"Centre Commercial Velizy 2, 2 Avenue de l'Europe"
-75004,Paris,52 Rue de Rivoli
-67000,Strasbourg,34 Rue du 22 Novembre
-35200,Rennes,"Centre Commercial Alma, 5 Rue du Bosphore"
-83160,La Valette,"Centre Commercial Grand Var, RN 98"
-75020,Paris,21 Cours de Vincennes
-59000,Lille,39 - 45 Rue Nationale
-13001,Marseille,2 Rue Bir Hakeim
+75010,Paris,Rue du 8 Mai 1945
+75013,Paris,Centre Commercial Italie 2
 75015,Paris,22 Rue du Depart
-57000,Metz,4 Rue Winston Churchill
-69500,Bron,209 Boulevard Pinel
-69003,Lyon,"Centre Commercial La Part Dieu, 17 Rue du Dr Bouchut"
-33000,Bordeaux,11 - 19 Rue Sainte-Catherine
-6000,Nice,6 Avenue Jean Médecin
-6700,Saint-Laurent du Var,"Centre Commercial Cap 3000, Avenue Eugène Donadeï"
-78150,Le Chesnay,"Centre Commercial Parly 2, 2 Avenue Charles de Gaulle"
-75013,Paris,"Centre Commercial Italie 2, 30 Avenue d'Italie"
-44000,Nantes,2 - 20 Rue de la Marne
-93110,Rosny-sous-bois,"Centre Commercial Rosny 2, Avenue du Général de Gaulle"
-31000,Toulouse,4 - 8 Rue Lapeyrouse
-67000,Strasbourg,1 - 5 Rue de la Haute Montee
+75015,Paris,17 Boulevard Vaugirard
+75015,Paris,Centre Commercial Beaugrenelle (1er etage B MAGNETIC)
+75020,Paris,21 Cours de Vincennes
 76000,Rouen,4 - 14 Rue du Gros Horloge
-75001,Paris,99 rue de Rivoli
-10150,Pont Sainte-Marie,"Mc Arthur Glen, 410 Voie du Bois, Local n°410"
-67000,Strasbourg,48-50 Rue des Hallebardes
-92800,Puteaux,"Centre commercial Les 4 Temps, 15 Parvis de la Défense, Local n°259 A "
-94000,Créteil,"Centre Commercial Creteil Soleil, 101 Avenue du Général de Gaulle, Niveau 1 - Local 1003"
-75001,Paris,"Centre commercial Forum des Halles, 101 Rue Berger, Local n°349"
-77710,Marne-la-Vallée,"Centre Commercial Val d'Europe, 14 cours du Danube - Serris, Local P1 127 & partie 129"
-6700,Saint-Laurent du Var,"Centre Commercial Cap 3000, Avenue Eugène Donadeï, Lots n°54 et 54bis"
-92100,Boulogne Billancourt,"Centre Commercial Les Passages de l'Hôtel de Ville, 5 Rue Tony Garnier, Ilot A - Local n°8"
-69002,Lyon,92 Rue Edouard Hérriot
-75006,Paris,52 Rue Bonaparte
-59000,Lille,34-36 Rue de la Grande Chaussée
-77127,Lieusaint,"Centre Commercial Carré Sénart, 143 Place Centrale, Local n°149"
-94320,Thiais,"Centre Commercial Belle Epine, Avenue du Luxembourg, Local n°105"
-75010,Paris,"Rue du 8 Mai 1945, Volume n°C30b"
-13090,Aix-en-Provence,"Centre Commercial Les Allées Provençales, Avenue Joseph Villevieille, Ilot A - Local n°8"
-75008,Paris,"Centre Commercial Saint-Lazare, 1 Cour de Rome, n°R116 C"
-67000,Strasbourg,"Centre Commercial Rivétoile, 3 Route du Rhin, DK n°(1)"
-75001,Paris,57 Rue de Rivoli
-76000,Rouen,"Centre commercial Docks 76, 76 Boulevard Ferdinand De Lesseps, Local n°77"
-75008,Paris,32 Place de la Madeleine
-75008,Paris,146 Avenue des Champs-Elysées
-78190,Velizy Villacoublay,"Centre Commercial Velizy 2, 2 Avenue de l'Europe, Niveau 0"
-44811,Saint-Herblain,"Centre Commercial Atlantis, Zone Commerciale Atlantis, RDC - Cellule AG S3"
-91000,Evry,"Centre Commercial Evry 2, 2 Boulevard de l'Europe, Cellule E30 - Niveau A"
-75015,Paris,"17 Boulevard Vaugirard, Lot n°7 - Niveau 2"
-31700,Blagnac,"Centre Commercial Leclerc, 2 Allée Emile Zola, Local n°BEM 47"
-77090,Collegien,"Centre Commercial Bay 2, Rue du Général de Gaulle, Local n°B 04 01"
-92300,Levallois-Perret,"Centre Commercial So Ouest, 21-39 Rue d’Alsace, Local n°102"
-95700,Roissy,"Centre Commercial Aéroville, 30 Rue des Buissons, Local n°3"
-31000,Toulouse,12 Rue Alsace Lorraine
-93117,Rosny-sous-Bois,"Centre Commercial Rosny 2, Avenue du Général de Gaulle, Local n°E 100"
-13127,Vitrolles,"Centre Commercial Carrefour, 113 Route Nationale, Local n°71"
-59650,Villeneuve d?Ascq,"Centre Commercial V2, Rue du Ventoux"
-69003,Lyon,"Centre Commercial La Part Dieu, 17 Rue du Dr Bouchut, Local n°159"
-13480,Cabries,"Centre Commercial Avant Cap, Chemin de la Grande Campagne, Local n° E 17"
-69002,Lyon,49 Rue de la Republique
-78158,Le Chesnay,"Centre Commercial Parly 2, 2 Avenue Charles de Gaulle, Local n°121"
-13400,Aubagne,"Centre Commercial Barneoud, zone co La Martelle, Route de Gemenos"
-75015,Paris,"Centre Commercial Beaugrenelle (1er etage B MAGNETIC), 12 Rue de Linois  "
+76000,Rouen,Centre commercial Docks 76
+77000,Melun,14 Rue Ren� Pouteau 
+77090,Collegien,Centre Commercial Bay 2
+77124,Chauconin Neufmontier,Centre Commercial Auchan
+77127,Lieusaint,Centre Commercial Carr� S�nart
+77240,Cesson,Route Departementale 306 
+77410,Claye-Souilly,Route Nationale 3 
+77710,Marne-la-Vall�e,Centre Commercial Val d'Europe
+78140,Velizy Villacoublay,Centre Commercial Velizy 2
+78150,Le Chesnay,Centre Commercial Parly 2
+78158,Le Chesnay,Centre Commercial Parly 2
+78190,Velizy Villacoublay,Centre Commercial Velizy 2
+78200,Buchelay,Centre commercial Auchan Mantes
+78370,Plaisir,Centre Commercial Auchan Grand Plaisir
+78885,Saint-Quentin-en-Yvelines,Centre Commercial Saint-Quentin
+80440,Glisy,Centre Commercial G�ant Amiens Glisy
+80484,Dury,Centre Commercial Auchan
+82000,Montauban,Centre Commercial Leclerc
+83000,Toulon,13 Place Puget 
+83130,La Garde,Centre Commercial Grand Var Est
+83160,La Valette,Centre Commercial Grand Var
+83190,Ollioules,Centre Commercial Carrefour
+83400,Hyeres,Centre Commercial Centre Azur 
+83480,Puget sur Argens,Commercial Grand Esterel
+83600,Frejus,480 Avenue Eugene Joly 
 83990,Saint-Tropez,11 Avenue du Marechal Foch
+84130,Le Pontet,Centre Commercial Auchan
+86000,Poitiers,Centre Commercial Auchan Sud
+87000,Limoges,40 Place de la Motte
+91000,Evry,Centre Commercial Evry 2
+91940,Les Ulis  ,Centre Commercial Les Ulis
+92100,Boulogne Billancourt,Centre Commercial Les Passages de l'H�tel de Ville
+92300,Levallois-Perret,Centre Commercial So Ouest
+92397,Villeneuve la Garenne,4 Boulevard Gallieni 
+92800,Puteaux,Centre commercial Les 4 Temps
+93110,Rosny-sous-bois,Centre Commercial Rosny 2
+93117,Rosny-sous-Bois,Centre Commercial Rosny 2
+93160,Noisy le Grand,Centre Commercial Les Arcades Mont d'Est
+93600,Aulnay sous Bois,Centre Commercial O'Parinor
+94000,Cr�teil,Centre Commercial Creteil Soleil
+94320,Thiais,Centre Commercial Belle Epine
+95700,Roissy,Centre Commercial A�roville
+98000,Monaco,17 Avenue des Spelugues 
