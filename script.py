@@ -27,14 +27,15 @@ final = {}
 while counter2 < tailledata:
     codepostal = str(dataset.iloc[counter2, 1])
 
-    if codepostal[:2] == '97' or codepostal[:2] == '98':
-        codedpt = str(dataset.iloc[counter2, 1])[:3]
+    if codepostal[:2] == '97' or codepostal[:2] == '98' or codepostal[:2] == '20':
+        codedpt = codepostal[:3]
     else:
-        codedpt = str(dataset.iloc[counter2, 1])[:2]
-    if codedpt == '20':
-        codedpt = '2a'
-    elif codedpt == '21':
-        codedpt = '2b'
+        codedpt = codepostal[:2]
+    if codedpt[:2] == '20':
+        if codedpt == '202':
+            codedpt = '2b'
+        else:
+            codedpt = '2a'
     elif codepostal == '42620':
         codedpt = '03'
     elif codepostal == '05110':
