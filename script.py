@@ -25,7 +25,7 @@ counter2 = 0
 final = {}
 
 while counter2 < tailledata:
-    codepostal = str(dataset.iloc[counter2, 1])
+    codepostal = dataset.iloc[counter2, 1].strip()
 
     if codepostal[:2] == '97' or codepostal[:2] == '98' or codepostal[:2] == '20':
         codedpt = codepostal[:3]
@@ -44,8 +44,8 @@ while counter2 < tailledata:
         codedpt = '24'
 
     nomdpt = listedpts[codedpt]
-    nomville = dataset.iloc[counter2, 0]
-    adresse = dataset.iloc[counter2, 2]
+    nomville = dataset.iloc[counter2, 0].strip()
+    adresse = dataset.iloc[counter2, 2].strip()
 
     if nomdpt not in final:
         final[nomdpt] = {}
